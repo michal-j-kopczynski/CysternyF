@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CysternyF/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CysternyF.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CysternyF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CysternyF/1.0.0": {
+      "type": "project",
+      "path": "../CysternyF/CysternyF.csproj",
+      "msbuildProject": "../CysternyF/CysternyF.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CysternyF >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Michał\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Michał\\Documents\\Projekty_studia\\probiekt2\\CysternyF\\CysternyTerminal\\CysternyTerminal.csproj",
+      "projectName": "CysternyTerminal",
+      "projectPath": "C:\\Users\\Michał\\Documents\\Projekty_studia\\probiekt2\\CysternyF\\CysternyTerminal\\CysternyTerminal.csproj",
+      "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Michał\\Documents\\Projekty_studia\\probiekt2\\CysternyF\\CysternyTerminal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Michał\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Michał\\Documents\\Projekty_studia\\probiekt2\\CysternyF\\CysternyF\\CysternyF.csproj": {
+              "projectPath": "C:\\Users\\Michał\\Documents\\Projekty_studia\\probiekt2\\CysternyF\\CysternyF\\CysternyF.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

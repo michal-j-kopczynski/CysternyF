@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "baza_figur_1/1.0.0": {
+        "dependencies": {
+          "CysternyF": "1.0.0"
+        },
+        "runtime": {
+          "baza_figur_1.dll": {}
+        }
+      },
+      "CysternyF/1.0.0": {
+        "runtime": {
+          "CysternyF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "baza_figur_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CysternyF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

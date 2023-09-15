@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "okienkowe_figury", "okienkowe_figury.csproj", "{0FEF4DCE-B9DF-4418-974E-5B4FFB9CB9E9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C0E2A628-0758-42FB-82CC-08813A3651FA} = {C0E2A628-0758-42FB-82CC-08813A3651FA}
+		{C43F2699-6B26-4834-A6B5-7EA683378147} = {C43F2699-6B26-4834-A6B5-7EA683378147}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CysternyF", "..\CysternyF\CysternyF.csproj", "{C0E2A628-0758-42FB-82CC-08813A3651FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baza_figur_1", "..\baza_figur_1\baza_figur_1.csproj", "{C43F2699-6B26-4834-A6B5-7EA683378147}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C0E2A628-0758-42FB-82CC-08813A3651FA} = {C0E2A628-0758-42FB-82CC-08813A3651FA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CysternyTerminal", "..\CysternyTerminal\CysternyTerminal.csproj", "{F5B47CB4-3C3A-4A66-AC5C-756E2D9307DE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C0E2A628-0758-42FB-82CC-08813A3651FA} = {C0E2A628-0758-42FB-82CC-08813A3651FA}
+		{C43F2699-6B26-4834-A6B5-7EA683378147} = {C43F2699-6B26-4834-A6B5-7EA683378147}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FEF4DCE-B9DF-4418-974E-5B4FFB9CB9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEF4DCE-B9DF-4418-974E-5B4FFB9CB9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEF4DCE-B9DF-4418-974E-5B4FFB9CB9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEF4DCE-B9DF-4418-974E-5B4FFB9CB9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E2A628-0758-42FB-82CC-08813A3651FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E2A628-0758-42FB-82CC-08813A3651FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E2A628-0758-42FB-82CC-08813A3651FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E2A628-0758-42FB-82CC-08813A3651FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43F2699-6B26-4834-A6B5-7EA683378147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43F2699-6B26-4834-A6B5-7EA683378147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43F2699-6B26-4834-A6B5-7EA683378147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43F2699-6B26-4834-A6B5-7EA683378147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B47CB4-3C3A-4A66-AC5C-756E2D9307DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B47CB4-3C3A-4A66-AC5C-756E2D9307DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B47CB4-3C3A-4A66-AC5C-756E2D9307DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B47CB4-3C3A-4A66-AC5C-756E2D9307DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D03C475-88C9-40D5-ADDC-5133897D83A8}
+	EndGlobalSection
+EndGlobal

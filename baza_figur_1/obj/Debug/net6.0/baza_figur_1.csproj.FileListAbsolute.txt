@@ -1,0 +1,15 @@
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\bin\Debug\net6.0\baza_figur_1.deps.json
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\bin\Debug\net6.0\baza_figur_1.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\bin\Debug\net6.0\baza_figur_1.pdb
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\bin\Debug\net6.0\CysternyF.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\bin\Debug\net6.0\CysternyF.pdb
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\baza_figur_1.csproj.AssemblyReference.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\baza_figur_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\baza_figur_1.AssemblyInfoInputs.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\baza_figur_1.AssemblyInfo.cs
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\baza_figur_1.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\baza_figur_1.csproj.CopyComplete
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\baza_figur_1.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\refint\baza_figur_1.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\baza_figur_1.pdb
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\CysternyF\baza_figur_1\obj\Debug\net6.0\ref\baza_figur_1.dll
